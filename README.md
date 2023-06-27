@@ -1,5 +1,5 @@
 # AIR-INDIA-Monthly-Passenger-Traffic-Analysis-using-Power-BI
-OBJECTIVE-To find out the attrition rate of employees by specific domains like age, job role, job satisfaction etc.
+OBJECTIVE-To find out AIR INDIA's monthly pasenger trends over the last 10 financial years to gain insights about its operational efficiency and  economy 
 
 DESCRIPTION-The objective can be broken down into the following detailed components-
 
